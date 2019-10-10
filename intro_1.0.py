@@ -22,10 +22,10 @@ number_of_apples = 4
 
 # now the variable number_of_apples has the value 4
 # you can see this simply by using print:
-print number_of_apples
+print(number_of_apples)
 
 # you can also get fancy like this:
-print "The number of apples is...ta-da!!!! " + str(number_of_apples)
+#print "The number of apples is...ta-da!!!! " + str(number_of_apples)
 
 # try executing this file in your Python interpreter
 # I used the mac instructions here:
